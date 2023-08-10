@@ -1,0 +1,7 @@
+pandoc 2.11.3.1
+Compiled with pandoc-types 1.22, texmath 0.12.0.3, skylighting 0.10.2,
+citeproc 0.3.0.1, ipynb 0.1.0.1
+User data directory: /home/x/.local/share/pandoc or /home/x/.pandoc
+Copyright (C) 2006-2020 John MacFarlane. Web:  https://pandoc.org
+This is free software; see the source for copying conditions. There is no
+warranty, not even for merchantability or fitness for a particular purpose.
