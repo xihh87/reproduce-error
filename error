@@ -1,0 +1,17 @@
+[WARNING] Could not convert image /tmp/tex2pdf.-ad0e2b8b72877360/da39a3ee5e6b4b0d3255bfef95601890afd80709.so: Cannot load file
+  Jpeg not enough bytes
+  PNG not enough bytes
+  Bitmap not enough bytes
+  GIF not enough bytes
+  HDR not enough bytes
+  Tiff not enough bytes
+  TGA not enough bytes
+Error producing PDF.
+! LaTeX Error: Unknown graphics extension: .so.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \end{frame}
+
