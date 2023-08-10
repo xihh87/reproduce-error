@@ -4,4 +4,4 @@ title: "This works"
 
 ## Does this work?
 
-![](./test.jpg )
+![](./test )
